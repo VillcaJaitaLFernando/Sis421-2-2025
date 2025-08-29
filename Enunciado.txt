@@ -1,0 +1,17 @@
+EXAMEN 01 PRIMER PARCIAL
+Construya un modelo que cumpla con lo siguiente:
+
+El modelo debe permitir capturar los datos de las actas de conteo de votos correspondientes a la elección para presidente en el presente año.
+Se debe lograr capturar la siguiente información: número de mesa, numero de votos por partido, blancos y nulos.
+Los datos que se capturen deben ser almacenados en una base de datos, de acuerdo a una estructura que cada estudiante vea por conveniente.
+Se deja a criterio del estudiante el procesamiento de las imágenes de las actas antes de aplicar un modelo preentrenado para reconocimiento de caracteres. Sin embargo se recomienda utilizar algunas marcas o guías propias de la papeleta escaneada para realizar el respectivo troceado de la imagen en fragmentos de imagen que represente los datos que se busca capturar.
+Se debe subir a gitlab o github y copiar la dirección del repositorio además de subir los código en este medio.
+
+La defensa del trabajo, se realizará el día viernes 29 de agosto a partir de hrs. 9:00 y se considerará lo siguiente:
+
+Dominio de la solución aplicada.
+Dominio de python y las librerías empleadas.
+Dominio del modelo preentrenado utilizado.
+Dominio de aspectos relacionados a deep learning.
+Factores de optimización, regularización, buenas practicas.
+Demostración suficiente de la efectividad del modelo desarrolla (pruebas de error, matriz de confusión, precisión, error entre otros) 
